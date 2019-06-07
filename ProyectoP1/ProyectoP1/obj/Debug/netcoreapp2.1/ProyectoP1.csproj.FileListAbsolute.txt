@@ -1,0 +1,11 @@
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.csprojAssemblyReference.cache
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.csproj.CoreCompileInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.AssemblyInfoInputs.cache
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.AssemblyInfo.cs
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\bin\Debug\netcoreapp2.1\ProyectoP1.deps.json
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\bin\Debug\netcoreapp2.1\ProyectoP1.runtimeconfig.json
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\bin\Debug\netcoreapp2.1\ProyectoP1.runtimeconfig.dev.json
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\bin\Debug\netcoreapp2.1\ProyectoP1.dll
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\bin\Debug\netcoreapp2.1\ProyectoP1.pdb
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.dll
+C:\Users\AXEN-JR48Q12\source\repos\ProyectoP1\ProyectoP1\obj\Debug\netcoreapp2.1\ProyectoP1.pdb
